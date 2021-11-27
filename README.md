@@ -1,1 +1,1 @@
-Prosty schludny Loading screen 
+Prosty schludny Loadingscreen 
